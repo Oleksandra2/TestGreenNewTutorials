@@ -1,8 +1,8 @@
 ---
 auto_validation: true
 time: 10
-tags: [ tutorial>beginner, software-product>sap-btp--abap-environment, software-product>sap-business-technology-platform ]
-primary_tag: programming-tool>abap-development
+primary_tag: programming-tool>abap-extensibility
+tags: [ tutorial>beginner, products>sap-hana\,-express-edition ]
 Open left rail for additional features
  
 parser: v2
