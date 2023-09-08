@@ -1,5 +1,6 @@
 ---
 title: Register for SAP HANA, express edition Test Green newtest
+description: Move data between in-memory and extended tables. Set connection property values.
 tags: [ tutorial>beginner, software-product>sap-btp--abap-environment, software-product>sap-business-technology-platform ]
 primary_tag: programming-tool>abap-extensibility
 tags: [ tutorial>beginner, products>sap-hana\,-express-edition ]
