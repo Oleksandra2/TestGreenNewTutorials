@@ -8,6 +8,7 @@ Open left rail for additional features
 parser: v2
 keywords: cloud, service, SQL, DEVELOPERSTEST, SAP Business Scenario, cap/analytics
 ---
+
 #    QA Green parser-v2 Test Green newtest
 <!-- description --> Use 
 
