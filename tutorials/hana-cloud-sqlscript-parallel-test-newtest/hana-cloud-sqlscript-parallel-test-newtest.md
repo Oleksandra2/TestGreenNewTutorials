@@ -4,6 +4,7 @@ description: Leverage SQLScript in stored procedures, user defined functions, an
 primary_tag: programming-tool>abap-extensibility
 tags: [ tutorial>beginner, products>sap-hana\,-express-edition ] 
 time: 15
+contributors: [ Dmytro Ivanov > https://github.com/IvanovDmytroA ]
 ---
 
 ## Prerequisites  
