@@ -4,7 +4,6 @@ time: 10
 primary_tag: programming-tool>abap-extensibility
 tags: [ tutorial>beginner, products>sap-hana\,-express-edition ]
 Open left rail for additional features
- 
 parser: v2
 keywords: cloud, service, SQL, DEVELOPERSTEST, SAP Business Scenario, cap/analytics
 ---
