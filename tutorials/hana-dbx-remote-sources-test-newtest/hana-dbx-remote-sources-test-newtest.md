@@ -5,6 +5,7 @@ primary_tag: programming-tool>abap-extensibility
 tags: [ tutorial>beginner, products>sap-hana\,-express-edition ]
 parser: v2
 keywords: cloud, service, SQL, DEVELOPERSTEST, SAP Business Scenario, cap/analytics
+contributors: [ Test Test > https://github.com/BigotryOps, SandraKast > https://github.com/SandraKastaletti, Dmytro Ivanov > https://github.com/IvanovDmytroA ]
 ---
 
 #    QA Green parser-v2 Test Green newtest
